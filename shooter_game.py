@@ -1,5 +1,5 @@
-#Создай собственный Шутер!
 
+#
 from pygame import *
 from random import *
 from time import time as timer
@@ -26,7 +26,7 @@ score = 0
 goal = 10
 lost = 0
 max_lost = 3
-life = 3
+life = 4
 
 
 class GameSprite(sprite.Sprite):
