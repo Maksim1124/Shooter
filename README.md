@@ -1,2 +1,2 @@
 # Shooter
-Shooter is my casual hame.
+Shooter is my casual game.
